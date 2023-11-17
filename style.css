@@ -1,0 +1,195 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-image: url('warpic.jpg');
+    background-size: contain;
+}
+
+.line {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+element.style {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.laws {
+    text-align: center;
+    margin: 10px 0 10px 0;
+    width: 85%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.061);
+    backdrop-filter: blur(7px);
+    border-radius: 12px;
+    border-top-left-radius: 0;
+    padding: 12px 0 12px 12px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    border-right: 1px solid rgba(255, 255, 255, 0.4);
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+    color: rgb(199, 253, 255);
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8);
+}
+
+h2 {
+    color: rgb(68, 202, 255);
+}
+
+h3 {
+    text-transform: capitalize;
+    color: rgb(0, 255, 238);
+}
+
+p {
+    text-align: left;
+    width: 100%;
+}
+
+.paragraphs {
+    padding-top: 0;
+}
+
+.law-1 {
+    width: 410px;
+}
+
+.law-2 {
+    width: 634px;
+}
+
+.law-3 {
+    width: 565px;
+}
+
+.law-4 {
+    width: 515px;
+}
+
+.law-5 {
+    width: 1165px;
+}
+
+.law-6 {
+    width: 415px;
+}
+
+.law-7 {
+    width: 465px;
+}
+
+.law-8 {
+    width: 950px;
+}
+
+.law-9 {
+    width: 415px;
+}
+
+.law-10 {
+    width: 720px;
+}
+
+.law-11 {
+    width: 925px;
+}
+
+.law-12 {
+    width: 340px;
+}
+
+.law-13 {
+    width: 855px;
+}
+
+.law-14 {
+    width: 745px;
+}
+
+.law-15 {
+    width: 635px;
+}
+
+.law-16 {
+    width: 435px;
+}
+
+.law-17 {
+    width: 700px;
+}
+
+.law-18 {
+    width: 685px;
+}
+
+.law-19 {
+    width: 330px;
+}
+
+ol {
+    list-style-type: lower-alpha;
+    list-style-position: outside;
+    text-align: left;
+    margin-left: 80px;
+}
+
+i {
+    margin: 0 3px;
+}
+
+.law-20 {
+    width: 735px;
+}
+
+.law-21 {
+    width: 435px;
+}
+
+.law-22 {
+    width: 555px;
+}
+
+.law-23 {
+    width: 545px;
+}
+
+.law-24 {
+    width: 515px;
+}
+
+.arrow {
+    font-size: 4rem;
+    color: rgb(255, 0, 0);
+}
+
+.law-24-points {
+    width: 490px;
+}
+
+.law-25 {
+    width: 555px;
+}
+
+.law-26 {
+    width: 390px;
+}
+
+.law-27 {
+    width: 1150px;
+}
+
+.law-28 {
+    width: 500px;
+}
+
+.law-29 {
+    width: 590px;
+}
+
+.law-30 {
+    width: 1165px;
+}
